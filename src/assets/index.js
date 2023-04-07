@@ -1,0 +1,23 @@
+export {default as Airbnb} from './airbnb.png';
+export {default as Apple} from './apple.svg';
+export {default as RobotHand} from './bgHome.png';
+export {default as Bill} from './bill.png';
+export {default as Binance} from './binance.png';
+export {default as Contract} from './card.png';
+export {default as CLose} from './close.svg';
+export {default as Coinbase} from './coinbase.png';
+export {default as Chegirma} from './discount.svg';
+export {default as Dropbox} from './dropbox.png';
+export {default as Facebook} from './facebook.svg';
+export {default as Google} from './google.svg';
+export {default as Robot} from './home.png';
+export {default as Instagram} from './instagram.svg';
+export {default as Linkedin} from './linkedin.png';
+export {default as Logo} from './logo.png';
+export {default as Menu} from './menu.svg';
+export {default as quates} from './quotes.svg';
+export {default as Secure} from './Secure.png';
+export {default as Send} from './Send.png';
+export {default as Star} from './Star.png';
+export {default as Twitter} from './twitter.png';
+

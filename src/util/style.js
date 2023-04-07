@@ -1,0 +1,16 @@
+export const styles = {
+    paddingX:'sm:px-16 px-6',
+    paddingY:'sm:py-10 py-6',
+    marginX:'sm:mx-16 mx-6',
+    marginY:'sm:my-10 my-6',
+    container:'xl:max-w-[1280px] w-full',
+    flexStart:"flex justify-center items-start",
+    flexStartStart:"flex justify-start items-start",
+    flexStartCenter:"flex justify-start items-center",
+    flexCenter:"flex justify-center items-center",
+    flexAround:"flex justify-around items-start",
+    flexBetween:"flex justify-between items-center",
+    paragraph:'font-montserrat font-normal text-[16px] text-lightWhite leading-[30.8px]',
+    haeading1:'font-montserrat font-semibold text-white xl:text-[54px] text-[40px] xl:leading-[66px] leading-[52px]',
+    haeading2:'font-montserrat font-semibold text-white sm:text-[48px] text-[36px] sm:leading-[66.8px] leading-[58.8px] w-full',
+}
